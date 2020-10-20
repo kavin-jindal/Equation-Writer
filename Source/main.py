@@ -1,3 +1,8 @@
+# Made by Kavin Jindal
+# Version : 1.1.0
+# Compatible OS : Windows XP or above
+# Python Version Support : Python 3
+# Copying and MOdifying the code doesnt make it yours 
 from tkinter import *
 from tkinter import ttk
 import sys
