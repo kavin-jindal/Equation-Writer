@@ -62,6 +62,9 @@ This is an Equation Writer coded in Python. You can use mathematical symbols eas
 
 --> Cut, Copy and Paste the content easily.
 
+# Source Code
+
+--> The source code of the Program has been provided, you can access it.
 
 # Installation
 -->Use the Git clone command 
