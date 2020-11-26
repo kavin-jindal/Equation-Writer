@@ -16,6 +16,10 @@ This is an Equation Writer coded in Python. You can use mathematical symbols eas
 --> This is an image of the Program. 
 ![ss](https://user-images.githubusercontent.com/68228966/96552414-59dc3280-12d1-11eb-9787-d31658f83aed.PNG)
 
+# Important Note:
+
+--> I am currently working on making this program compatible with Python 2. Because there are various complications to run this program with Python 3. The next update of Equation Writer might include a Python Version 2 Compatibiltiy. 
+
 # General Info
 --> This program has been made to make it easier to write mathematical symbols without using any external website or editor or using character maps.
 
