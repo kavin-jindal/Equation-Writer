@@ -27,6 +27,10 @@ This is an Equation Writer coded in Python. You can use mathematical symbols eas
 
 --> You just need to press a button of your choice to insert the equation.
 
+**Update 1.2**
+
+
+
 **Version:** 1.0
 
 **Compatible OS:** Windows XP or above
