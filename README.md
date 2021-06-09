@@ -29,6 +29,18 @@ This is an Equation Writer coded in Python. You can use mathematical symbols eas
 
 **Update 1.2**
 
+*A new update after a long time!!*
+
+This update includes the following:
+
+* Removed Spacebar
+* Added alpha, beta, and gamma symbols
+* Added a format tab
+* Added bold and italics text formatting
+
+**Glitches reported**
+You can not save your file containing symbols due to encoding errors, you can copy it to a text file normally. I am working upon this bug to fix it
+
 
 
 **Version:** 1.0
